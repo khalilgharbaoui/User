@@ -1,0 +1,27 @@
+{
+	"annotations": false,
+	"blame_whole_file": true,
+	"diff_panel": false,
+	"flow": false,
+	"git_command": false,
+	"git_flow_command": "/usr/local/bin/git-flow",
+	"gitignore_sync": false,
+	"history_size": 5,
+	"save_first": true,
+	"status_opens_file": false,
+	"statusbar_branch": false,
+	"statusbar_status": false,
+	"statusbar_status_symbols":
+	{
+		"added": " 📗 ",
+		"clean": " ✅ ",
+		"conflicts": " ‼️ ",
+		"copied": "C",
+		"deleted": " 📕 ",
+		"modified": " 📒 ",
+		"renamed": "R",
+		"separator": " | ",
+		"untracked": " ⁉️ "
+	},
+	"verbose_commits": true
+}
